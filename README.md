@@ -7,7 +7,7 @@ VERSION 4.0.0<br/>
 *modificamos la version <br/>
 *Se crearon las carpetas img y  css<br/>
 
-#Bootstrap
+# Bootstrap
 
 *6 ejercios con su respectiva maqueta<br/>
 *css con su respectivo archivo 
