@@ -26,4 +26,9 @@ VERSION 4.0.0<br/>
 *creamos como seria una pagina en el ejercicio 6<br/>
 *conocimos los tipos de tamaños que puede tener una pagina <br/>
 *aprendimos la funcion card<br/>
+*cada pagina con responsive<br/>
+*utilizamos los cards<br/>
+*la maqueta 6 utilizamos un card<br/>
+*agregamos un boton de comprar<br/>
+*
 
